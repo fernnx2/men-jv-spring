@@ -1,0 +1,21 @@
+{
+  "name": "men-jv-spring",
+  "displayName": "men-jv-spring",
+  "description": "Theme for springboot lovers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme springboot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme springboot-color-theme.json"
+      }
+    ]
+  }
+}
