@@ -17,5 +17,10 @@
         "path": "./themes/theme springboot-color-theme.json"
       }
     ]
+  },
+  "author": {
+    "name": "Rene Fernando Menjivar",
+    "email": "menjivar.fernando95@gmail.com",
+    "url": "null"
   }
 }
