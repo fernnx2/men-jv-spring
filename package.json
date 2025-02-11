@@ -18,9 +18,11 @@
       }
     ]
   },
+  "icon": "icon.png",
   "author": {
     "name": "Rene Fernando Menjivar",
     "email": "menjivar.fernando95@gmail.com",
     "url": "null"
-  }
+  },
+   "publisher": "FernandoMenjivar"
 }
