@@ -2,7 +2,7 @@
   "name": "men-jv-spring",
   "displayName": "men-jv-spring",
   "description": "Theme for springboot lovers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
