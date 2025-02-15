@@ -16,6 +16,8 @@
 		"sideBarStickyScroll.shadow":"#101b25",
 		"sideBarActivityBarTop.border":"#101b25",
 		"activityBar.activeBackground":"#2a343d",
+		"editorHoverWidget.background":"#101b25",
+
 		"activityBar.activeBorder":"#80ea6e",
 		"activityBar.activeFocusBorder":"#80ea6e",
 		"activityBarTop.background":"#101b25",
@@ -74,10 +76,21 @@
 		"input.foreground":"#fff",
 		"quickInput.background":"#2a343d",
 		"quickInput.foreground":"#fff",
-		"quickInputList.focusBackground":"#1f98ff",
+		"quickInputList.focusBackground":"#374450",
 		"editorWidget.background":"#101b25",
-		
-		
+
+		"debugToolBar.background":"#101b25",
+		"debugToolBar.border":"#80ea6e",
+		"notifications.background":"#2a343d",
+		"notifications.foreground":"#1f98ff",
+		"notificationsErrorIcon.foreground":"#DD1144",
+		"toolbar.hoverBackground":"#374450",
+		"statusBarItem.hoverBackground":"#63a35c",
+		"editor.hoverHighlightBackground":"#374450",
+		"list.hoverBackground":"#374450",
+		"list.activeSelectionBackground":"#374450",
+		"list.activeSelectionForeground":"#63a35c",
+		"list.inactiveSelectionBackground":"#374450"
 	},
 	"tokenColors": [
 		{
