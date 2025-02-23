@@ -18,5 +18,5 @@ Thank you , very much.
 **Enjoy!**
 
 ### screenshot examples:
-![dashboard](dash.png)
-![debug](debug.png)
+![dashboard](./assets/dash.png)
+![debug](./assets/debug.png)

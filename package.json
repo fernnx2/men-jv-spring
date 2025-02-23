@@ -9,6 +9,20 @@
   "categories": [
     "Themes"
   ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "spring-theme",
+    "Theme",
+    "sts",
+    "spring",
+    "springboot",
+    "java"
+  ],
   "contributes": {
     "themes": [
       {
@@ -17,6 +31,10 @@
         "path": "./themes/theme springboot-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://fernnx@bitbucket.org/devopsfernnx2/men-jv-spring.git"
   },
   "icon": "icon.png",
   "author": {
