@@ -9,7 +9,9 @@ Give it a try :)
 
 
 If you like using this, please consider donating a little bit. It takes a lot of time to keep this updated with every VSCode release. 
-<a href="https://www.buymeacoffee.com/fernnx2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fernnx2" data-color="#3cec48" data-emoji="" data-font="Cookie" data-text="Support me, Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#80ea6e" ></script>
+
+
 
 Thank you , very much.
 
