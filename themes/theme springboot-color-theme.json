@@ -90,7 +90,24 @@
 		"list.hoverBackground":"#374450",
 		"list.activeSelectionBackground":"#374450",
 		"list.activeSelectionForeground":"#63a35c",
-		"list.inactiveSelectionBackground":"#374450"
+		"list.inactiveSelectionBackground":"#374450",
+		"debugIcon.breakpointForeground":"#DD1144",
+		"statusBar.debuggingBackground":"#DD1144",
+		"statusBar.debuggingForeground":"#fff",
+		"debugIcon.stopForeground":"#DD1144",
+		"debugIcon.restartForeground":"#63a35c",
+		"debugIcon.continueForeground":"#1f98ff",
+		"debugIcon.breakpointCurrentStackframeForeground":"#63a35c",
+		"debugTokenExpression.number":"#1f98ff",
+		"debugTokenExpression.boolean":"#1f98ff",
+		"debugTokenExpression.string":"#d4f088",
+		"debugTokenExpression.name":"#63a35c",
+		"debugTokenExpression.type":"#fff",
+		"debugTokenExpression.error":"#DD1144",
+		"debugTokenExpression.value":"#85d9eb",
+		"debugView.stateLabelBackground":"#63a35c"
+
+
 	},
 	"tokenColors": [
 		{
